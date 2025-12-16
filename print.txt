@@ -1,1 +1,2 @@
 this is my first lab in git
+this is the second line of the code
